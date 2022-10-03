@@ -1,6 +1,5 @@
-- 👋 Hi there, I’m @pavanh007
+- 👋 Hi there, I’m @pavanh
 - 👀 I’m interested in back-end Technologies
-- 🌱 I’m currently learning devOps, web3 and full-stack technologies
+- 🌱 I’m currently learning web3 and full-stack technologies
 - 📫 How to reach me: pavanhdsce@gmail.com
 - ⤵️ Connect with me : www.linkedin.com/in/pavanh007
-
