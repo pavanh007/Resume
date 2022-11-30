@@ -12,7 +12,7 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m working as a Software Engineer @vlinder.io and contributing to backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-pavanh-orange?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavanh007/)
 
