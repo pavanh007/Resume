@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [ticketMaster](https://github.com/pavanh007/tour-Management)
 
-- 🌱 I’m currently learning **javascript, typescript, Nodejs, mongoDB**
+- 🌱 I’m currently learning **MERN stack | design**
 
-- 💬 Ask me about **javascript, development, stacks**
+- 💬 Ask me about **development, design**
 
 - 📫 How to reach me **pavanhdsce@gmail.com**
 
