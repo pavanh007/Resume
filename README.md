@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from India</h3>
 <p align="center"> <a href="https://twitter.com/pavanh007" target="blank"><img src="https://img.shields.io/twitter/follow/pavanh007?logo=twitter&style=for-the-badge" alt="pavanh007" /></a> </p>
 
-- 🔭 I’m currently working on [ticketMaster](https://github.com/pavanh007/tour-Management)
-
 - 🌱 I’m currently learning **MERN stack | design**
 
 - 💬 Ask me about **development, design**
