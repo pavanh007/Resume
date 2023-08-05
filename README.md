@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan H</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <p align="center"> <a href="https://twitter.com/pavanh007" target="blank"><img src="https://img.shields.io/twitter/follow/pavanh007?logo=twitter&style=for-the-badge" alt="pavanh007" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack | design**
