@@ -10,14 +10,12 @@
 
 - 📄 Know about my experiences [https://resume.io/r/WnThbg0ci](https://resume.io/r/WnThbg0ci)
 
-- ⚡ Fun fact **Always used to find new solution along with existing solution.**
+- ⚡ Fun fact **Always used to find new solutions along with existing solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pavanh007" target="blank"><img align="center" src="https://i.ibb.co/vZKDNW7/icons8-twitter-64.png" alt="pavanh007" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pavanh007/" target="blank"><img align="center" src="https://i.ibb.co/Ks6Jhdf/icons8-linkedin-48.png" alt="https://www.linkedin.com/in/pavanh007/" height="40" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/pavanh_98/" target="blank"><img align="center" src="https://i.ibb.co/sbxZMDR/icons8-instagram-48.png" alt="https://www.instagram.com/pavanh_98/" height="40" width="40" /></a>
-<a href="https://medium.com/@pavanhdsce" target="blank"><img align="center" src="https://i.ibb.co/rkDKmpT/icons8-medium-48.png" alt="@pavanhdsce" height="40" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/pavanh1998/" target="blank"><img align="center" src="https://i.ibb.co/qRWVSZD/leetCode.png" alt="https://leetcode.com/pavanh1998/" height="35" width="35" /></a>
 </p>
 
