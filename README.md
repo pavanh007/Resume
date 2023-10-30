@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **pavanhdsce@gmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/WnThbg0ci](https://resume.io/r/WnThbg0ci)
-
 - ⚡ Fun fact **Always used to find new solutions along with existing solutions.**
 
 <h3 align="left">Connect with me:</h3>
