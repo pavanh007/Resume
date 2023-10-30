@@ -1,39 +1,49 @@
 <h1 align="center">Hi 👋, I'm Pavan</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<p align="center"> <a href="https://twitter.com/pavanh007" target="blank"><img src="https://img.shields.io/twitter/follow/pavanh007?logo=twitter&style=for-the-badge" alt="pavanh007" /></a> </p>
 
-- 🌱 I’m currently learning **MERN stack | design**
 
-- 💬 Ask me about **development, design**
+## About me
 
-- 📫 How to reach me **pavanhdsce@gmail.com**
+✨ Software Developer
 
-- ⚡ Fun fact **Always used to find new solutions along with existing solutions.**
+✨ FullStack Developer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pavanh007" target="blank"><img align="center" src="https://i.ibb.co/vZKDNW7/icons8-twitter-64.png" alt="pavanh007" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavanh007/" target="blank"><img align="center" src="https://i.ibb.co/Ks6Jhdf/icons8-linkedin-48.png" alt="https://www.linkedin.com/in/pavanh007/" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/pavanh1998/" target="blank"><img align="center" src="https://i.ibb.co/qRWVSZD/leetCode.png" alt="https://leetcode.com/pavanh1998/" height="35" width="35" /></a>
-</p>
+✨ Enjoys building apps in frameworks like React and React Native.Also into building APIs using REST or GraphQL.
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="TypeScript" height="30" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="30" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="30" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="30" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="30" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="30" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="30" /></a>  
-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="30" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="30" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" /></a> 
-</div> </a> </p>
+<hr>
+
+<h3> 🛠 &nbsp;Tech Stack</h3>
+
+- 📱 &nbsp;Mobile:&nbsp;
+  ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
+- 🗄 &nbsp;Backend:&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-0A1A2F?style=flat&logo=node.js)
+- 🌐 &nbsp;Frontend:&nbsp;
+  ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react)
+
+- 🛢 &nbsp;Database:&nbsp;
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-0A1A2F?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-0A1A2F?style=flat&logo=mysql&logoColor=00d8fd)
+  ![Postgresql](https://img.shields.io/badge/-Postgresql-0A1A2F?style=flat&logo=postgresql)
+- ⚙️ &nbsp;VCS: &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github)
+- 🔧 &nbsp;IDE's:&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
+- 🖥 &nbsp;Design:&nbsp;
+  ![Figma](https://img.shields.io/badge/-Figma-0A1A2F?style=flat&logo=figma)
+
+<br/>
+
+
+<hr>
+
+<h3>Contact Me</h3>
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/pavanh007/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:pavanhdsce@gmail.com)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/Pavanh007)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavanh007&show_icons=true&locale=en&layout=compact" alt="pavanh007" /></p>
 
