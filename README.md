@@ -4,11 +4,9 @@
 
 ## About me
 
-✨ Software Developer
-
 ✨ FullStack Developer
 
-✨ Enjoys building apps in frameworks like React and React Native.Also into building APIs using REST or GraphQL.
+✨ Enjoys building apps in frameworks like React and React Native.Also into building APIs using REST.
 
 <hr>
 
